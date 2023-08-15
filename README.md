@@ -4,7 +4,7 @@
  
 ## Live Demo
 
-[Live Demo Link](https://samirpaul1.github.io/music) :point_left:
+[Live Demo Link](online-music-player.vercel.app) :point_left:
 
 Landing Page:
 <a href="#" rel="Landing Page">![Landing Page](https://raw.githubusercontent.com/SamirPaulb/assets/main/music/2.png)</a>
